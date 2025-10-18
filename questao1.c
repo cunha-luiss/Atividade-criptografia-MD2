@@ -3,6 +3,9 @@
 #include <string.h>
 #include <stdlib.h>
 
+// Questões feitas por Luís Felipe Parreira Cunha e João Pedro Lopes da Cruz
+
+
 long int mdc(long int n1, long int n2)
 {
     if (!n1)

@@ -5,6 +5,9 @@
 #endif
 
 
+// Questões feitas por Luís Felipe Parreira Cunha e João Pedro Lopes da Cruz
+
+
 int mdccmPassos(int a, int b) {
     int resto;
     while (b != 0) {

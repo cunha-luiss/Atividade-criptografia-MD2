@@ -2,6 +2,10 @@
 #include <stdlib.h>
 #include <math.h>
 
+
+// Questões feitas por Luís Felipe Parreira Cunha e João Pedro Lopes da Cruz
+
+
 int *fatoracao(int n)
 {
     int valor = n;

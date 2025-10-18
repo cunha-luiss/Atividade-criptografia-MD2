@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+
+// Questões feitas por Luís Felipe Parreira Cunha e João Pedro Lopes da Cruz
+
 //Calcular o MMC entre os ciclos. Se for maior que 50, tchau
 
 int mdc(int a, int b) {
